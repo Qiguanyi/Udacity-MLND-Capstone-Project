@@ -14,6 +14,7 @@ A-share constituent stocks, excluding. The ST shares, stocks suspended in the ne
 The main functions are in following files:
   1. CustomizedFunctions.py: Customized Defination of Functions
   2. database_api.py: ectracting data from SQL database.
+
 The final results of different models are in following html files:
   1. Linear model.html
   2. SVM_linear kernel.html
